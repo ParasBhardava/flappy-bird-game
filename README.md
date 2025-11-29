@@ -2,6 +2,14 @@
 
 A modern implementation of the classic Flappy Bird game built with React, TypeScript, and Material-UI.
 
+## Screenshots
+
+### Light Mode
+![Flappy Bird - Light Mode](./images/flappy-bird-game-light-mode.png)
+
+### Dark Mode
+![Flappy Bird - Dark Mode](./images/flappy-bird-game-dark-mode.png)
+
 ## Features
 
 - Classic Flappy Bird gameplay mechanics
