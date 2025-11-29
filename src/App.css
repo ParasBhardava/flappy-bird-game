@@ -1,0 +1,13 @@
+/* App-level styles for Flappy Bird game */
+
+#root {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Smooth theme transitions */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
