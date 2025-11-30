@@ -2,9 +2,7 @@
 
 A modern implementation of the classic Flappy Bird game built with React, TypeScript, and Material-UI.
 
-## Screenshots
-
-### Demo
+## Demo
 [Demo](./assets/flappy-bird-demo.gif)
 
 ## Features
