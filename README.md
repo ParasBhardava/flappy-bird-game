@@ -5,7 +5,7 @@ A modern implementation of the classic Flappy Bird game built with React, TypeSc
 ## Screenshots
 
 ### Demo
-https://github.com/ParasBhardava/flappy-bird-game/assets/flappy-bird-demo.mp4
+[Demo](./assets/flappy-bird-demo.gif)
 
 ## Features
 
