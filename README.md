@@ -4,11 +4,8 @@ A modern implementation of the classic Flappy Bird game built with React, TypeSc
 
 ## Screenshots
 
-### Light Mode
-![Flappy Bird - Light Mode](./images/flappy-bird-game-light-mode.png)
-
-### Dark Mode
-![Flappy Bird - Dark Mode](./images/flappy-bird-game-dark-mode.png)
+### Demo
+https://github.com/ParasBhardava/flappy-bird-game/assets/flappy-bird-demo.mp4
 
 ## Features
 
